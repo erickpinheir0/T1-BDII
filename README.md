@@ -25,9 +25,8 @@ Blackboard.
 único arquivo com todas as questões, neste último caso cada questão deve estar devidamente
 identificada;  
 • Os scripts serão testados utilizando o SGBD Oracle Live SQL (conforme utilizado nas aulas).
-Critérios de Avaliação:
 
-## Item Descrição % Peso
+## Critérios de Avaliação:
 1) Construir 2 View = 30%  
 2) Construir 2 Functions = 30%  
 3) Construir 1 Store Procedure = 40%  
