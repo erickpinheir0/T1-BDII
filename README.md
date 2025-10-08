@@ -32,3 +32,10 @@ Critérios de Avaliação:
 2) Construir 2 Functions = 30%  
 3) Construir 1 Store Procedure = 40%  
 TOTAL 100%
+
+## Scripts e Diagramas
+• Diagrama com o modelo de dados: 00_DER_LIVRARIA.pdf;  
+• Script para criar base de dados: 01_SCRIPT_DDL_CRIAR_MODELO.sql;  
+• Script para a carga de dados: 02_SCRIPT_DML_CARGA_DADOS.sql;  
+• Script para validar a carga de dados: 03_SCRIPT_DML_VALIDAR_DADOS.sql;  
+• Se for necessário limpar a base de dados: 99_SCRIPT_LIMPEZA_DADOS.sql;
